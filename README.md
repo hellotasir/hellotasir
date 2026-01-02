@@ -2,7 +2,7 @@
 
 A software engineer & entrepreneur passionate about building **mobile and web applications** that solve real-world problems.  
 
-#### 🧰 Core Focus
+#### 🧰 Core Learning Focus
 
 | Category            | Skills                       |
 |--------------------|------------------------------|
@@ -21,7 +21,7 @@ A software engineer & entrepreneur passionate about building **mobile and web ap
 
 **Strategic Focus:** Leverage deep expertise in Flutter and Dart Frog while scaling all other operations through AI-driven, adaptive learning and continuous optimization.  
 
-#### 🚀 Platform Coverage
+#### 🚀 Platform Coverage & Focus
 
 | Platform | Practice Environment |
 |----------|--------|
