@@ -11,11 +11,12 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 
 #### ⚙️ Core Development Focus
 
-| Layer | Primary Stack | Secondary Stack |
-|-------|---------------|----------------|
-| Mobile | Flutter | — |
-| Frontend | — | React.js, Next.js |
-| Backend | Dart Frog | Express.js |
+| Layer | Primary Stack | Secondary Stack | Exploration |
+|-------|---------------|----------------|------------|
+| Cross-Platform | Flutter | — | — |
+| Frontend | — | React.js, Next.js | — |
+| Backend | Dart Frog | Express.js | — |
+| Embedded, AI & ML | — | — | Flutter, TensorFlow, LangChain and Others |
 
 **Strategic Focus:** Leverage deep expertise in Flutter and Dart Frog while scaling all other operations through AI-driven, adaptive learning and continuous optimization.  
 
@@ -28,6 +29,7 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 | iOS Application | 🔒 Locked | Primary |
 | Windows Application | 🔓 Unlocked | Secondary |
 | macOS Application | 🔒 Locked | Secondary |
+| Embedded Applications | 🔒 Locked | Secondary |
 
 #### 🧠 Engineering Principles
 
