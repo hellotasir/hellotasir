@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tasir Rahman
 
-A Software Engineer & Entrepreneur passionate about creating mobile and web apps that solve real problems.  
+A Software Engineer & Entrepreneur passionate about creating mobile apps that solve real problems.  
 
 #### 🧰 Core Learning Focus
 
@@ -14,33 +14,19 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 | Layer | Primary Stack | Secondary Stack | Exploration |
 |-------|---------------|----------------|------------|
 | Cross-Platform | Flutter | — | — |
-| Frontend | — | React.js, Next.js | — |
-| Backend | Dart Frog | Express.js | — |
-| Embedded, AI & ML | — | — | Flutter, TensorFlow, LangChain and Others |
+| Backend | Dart Frog | Express.js | Encore |
+| Embedded, AI & ML | Flutter | — | TensorFlow, LangChain and Others |
 
 #### 🚀 Platform Coverage & Focus
 
-| Platform | Practice Environment | Focus |
-|----------|--------|--------|
-| Web Application | 🔓 Unlocked | Primary |
-| Android Application | 🔓 Unlocked | Primary |
-| iOS Application | 🔒 Locked | Primary |
-| Windows Application | 🔓 Unlocked | Secondary |
-| macOS Application | 🔒 Locked | Secondary |
-| Embedded Applications | 🔒 Locked | Secondary |
+| Platform | Practice Environment | Focus | Skill |
+|----------|--------|--------|--------|
+| Android Application | 🔓 Unlocked | Primary | Strong |
+| iOS Application | 🔒 Locked | Primary | N/A |
+| Windows Application | 🔓 Unlocked | Secondary | Standard |
+| macOS Application | 🔒 Locked | Secondary | N/A |
+| Embedded Applications | 🔒 Locked | Secondary | N/A |
 
 #### 🎯 Vision
 
-**Strategic Focus:** Lead as a Mobile Engineer with deep Flutter expertise, backed by Dart Frog on the backend. All other skills function as accelerators, scaled through AI-driven, adaptive learning and continuous optimization. 
-
-#### 🧠 Engineering Principles
-
-- Build systems for **scale**, not just for today  
-- Design UI/UX & features that **convert users into customers**  
-- Ship only when **quality benchmarks** are met  
-- Treat **security as foundational**, not optional  
-
-#### 🌿 Life Philosophy
-
-Think, build, scale, and enjoy the journey.  
-Growth matters. So does living.  
+**Strategic Focus:** Lead as a Mobile Engineer with deep Flutter expertise, backed by Dart Frog on the backend. All other skills function as accelerators, scaled through AI-driven, adaptive learning and continuous optimization.
