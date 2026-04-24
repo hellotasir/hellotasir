@@ -1,8 +1,15 @@
 # 👋 Hi, I'm Tasir Rahman
+A software engineer focused on building mobile and web applications that solve real-world problems.
 
-A software engineer & entrepreneur passionate about creating mobile and web apps that solve real problems.
+**Strategic Focus:**  
+To lead as a Full-stack Mobile Engineer with deep expertise in Flutter, complemented by Dart Frog for backend development. All additional skills act as accelerators, enhanced through AI-driven, adaptive learning and continuous optimization.
 
+**Technical Interests:**
 
-#### 🎯 Vision
-
-**Strategic Focus:** Lead as a Mobile Engineer with deep Flutter expertise, backed by Dart Frog on the backend. All other skills function as accelerators, scaled through AI-driven, adaptive learning and continuous optimization.
+| Category              | Details                                                                 |
+|----------------------|-------------------------------------------------------------------------|
+| **Programming Languages** | Dart, JavaScript, TypeScript                                            |
+| **Cross-Platform Development** | Flutter                                            |
+| **Frontend Development**         | React *(occasionally Next.js & Angular)*                                |
+| **Web Fundamentals**         | HTML5, CSS3                                                             |
+| **Backend Development**          | Dart Frog, Express.js, Encore *(often leveraging AI for faster and smarter development)* |
