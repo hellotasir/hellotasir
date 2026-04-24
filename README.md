@@ -1,2 +1,1 @@
-# 👋 Hi, I'm Tasir Rahman
-A software engineer focused on building mobile and web applications that solve real-world problems.
+I’m Tasir Rahman, a software engineer & entrepreneur passionate about creating applications that solve real problems.
